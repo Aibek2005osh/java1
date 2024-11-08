@@ -44,7 +44,7 @@ public class Main {
                 System.out.println("Model : "+c.getModel() + "\nBrant : " +c.getBrant() +
                         "\nMaxTez : "+c.getMaxTez()  );}
 
-        System.out.println("🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢");
+        System.out.println("🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢🏢");
             School [] schools = {school1,school2,school3};
             for (School s:schools){
                 System.out.println("ShoolName : "+s.getSchoolName() + "\nShoolDerektor : "+s.getShoolderektor()+
